@@ -58,6 +58,7 @@ public class javenpo2_0 {
                             break;
                         }
                     } while (confirm);
+                    break;
 
                 case 1:
                     System.out.println(String.format("Você escolheu %sPedra%s, e a CPU escolheu %s%s%s.", AZUL, RESET,
