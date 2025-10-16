@@ -1,2 +1,2 @@
 # JAVENPO
-Um Jokenpô feito em java
+Um Jokenpô feito em JAVA.
